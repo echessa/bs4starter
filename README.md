@@ -9,7 +9,7 @@ Bootstrap 4 (v4.0.0-beta.3) dev environment setup with Gulp and Sass
 ## Install Dependencies
 
 ```sh
-$ npm install 
+$ npm install
 ```
 
 ## Compile Sass & Run Dev Server
