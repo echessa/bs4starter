@@ -1,6 +1,6 @@
 # Bootstrap 4 Starter Project
 
-Bootstrap 4 dev environment setup with Gulp and Sass
+Bootstrap 4 (v4.0.0-beta.3) dev environment setup with Gulp and Sass
 
 ## Version
 
